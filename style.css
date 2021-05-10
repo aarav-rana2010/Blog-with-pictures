@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+div{
+    margin-top: 15px;
+}
+img{
+    border-style: dotted;
+    width: 500px;
+    height: 800px;
+}
+.Image-section{
+    display: flex;
+    justify-content: center;
+}
+.Image-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+.section-style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
